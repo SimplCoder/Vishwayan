@@ -25,9 +25,7 @@
 			<div class="col-xs-6 col-sm-6 text-center">
 	 			<div class="top-title"> VEHICLE TRACKING AND FLEET MANAGMENT SYSTEM</div>
 			</div>
-			<div class="col-xs-3 col-sm-3 text-right">
-				<div class="cust-logo"> <img src="html/images/cust-logo.jpg" alt=""/> <span>Customer Logo</span> </div>
-			</div>
+			
 		</div>
 		<div class="row border-bottom white-bgx">
                 <div class="col-xs-12">
